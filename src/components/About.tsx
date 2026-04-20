@@ -11,7 +11,7 @@ export default function About() {
           <div className="flex justify-center">
             <div className="relative w-64 h-64 rounded-lg overflow-hidden shadow-lg border-2 border-accent">
               <Image
-                src="/ID-photo.jpg"
+                src="/ID-Photo.jpg"
                 alt="Manasi Mahendra Jeste"
                 fill
                 className="object-cover"
