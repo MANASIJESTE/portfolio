@@ -82,8 +82,10 @@ export default function CV() {
 
         <div className="mt-12 text-center">
           <a 
-            href="/resume.pdf" 
+            href="/portfolio/ManasiJeste_CV.pdf" 
             className="inline-block px-8 py-3 bg-accent text-white rounded-lg hover:bg-blue-600 smooth-transition font-semibold"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             Download Full CV
           </a>

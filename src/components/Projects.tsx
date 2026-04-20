@@ -13,8 +13,8 @@ export default function Projects() {
       title: 'EcoAutoVision: CO2-Aware AutoML Workflow',
       description: 'Developed a CO2-aware AutoML workflow for vision models using proxy-based candidate ranking, multi-objective hyperparameter optimization, and dynamic training policies to reduce GPU usage and emissions.',
       tags: ['Python', 'AutoML', 'Optimization', 'Sustainability'],
-      link: '#',
-      github: 'https://github.com/MANASIJESTE',
+      link: 'https://github.com/MANASIJESTE/AutoML_HPO_Project',
+      github: 'https://github.com/MANASIJESTE/AutoML_HPO_Project',
     },
     {
       id: 3,
